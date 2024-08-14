@@ -99,19 +99,20 @@ span{
         font-size: 12px;
     }
     .box{
-        width: 354px;
+        width: 345px;
         height: 475px;
-        
+        margin-left: 20px;
        display:inline-block;
        position: relative;
        margin-top: 25px!important;
        padding: 3px;
+      
     }
     
     img{
         top: 10px;
      position: absolute;
-        width: 300px;
+        width: 305px;
         height: 150px;
         left: 20px;
     }
@@ -134,7 +135,7 @@ span{
     }
     .plot{
         font-size: 10px!important; 
-      padding: 3px ;
+     
     }
 }
 
